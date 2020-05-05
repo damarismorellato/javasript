@@ -14,7 +14,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\tabuada.js"
+            "program": "${workspaceFolder}\\sorteio.js"
         }
     ]
 }
